@@ -205,7 +205,7 @@ User message
                                         │
                                         ▼
                          Return final response to user:
-                           • listing title, price, platform, condition
+                           • listing tit   le, price, platform, condition
                            • outfit suggestion (omitted if None)
                            • fit card caption
 ```
